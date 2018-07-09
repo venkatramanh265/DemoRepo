@@ -8,6 +8,6 @@ export const hello: Handler = (event: APIGatewayEvent, context: Context, cb: Cal
       input: event,
     }),
   };
-console.log("hi");
+console.log("hiewrwr");
   callback(null, response);
 }
